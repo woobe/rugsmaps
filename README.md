@@ -1,6 +1,9 @@
 rugsmaps
 ========
 
+### Maps of R User Groups Around the World
+
+
 This shiny app is my submission to the [visualization contest](http://blog.revolutionanalytics.com/2014/06/contest-prizes-for-best-r-user-groups-plot.html) held by Revolution Analytics. The app is currently hosted on [blenditbayes.shinyapps.io/rugsmaps](https://blenditbayes.shinyapps.io/rugsmaps/). 
 
 You can also run this app locally on your machine using the following code:
