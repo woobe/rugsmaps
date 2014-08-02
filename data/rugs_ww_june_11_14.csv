@@ -1,0 +1,142 @@
+City,Country,State,Region,Name
+Bangalore,India,,Asia,Bangalore R Users
+Chang Mai,Thailand,,Asia,Chang Mai R User Group
+Chiba,Japan,,Asia,Kashiwa R
+Chennai,India,,Asia,R Users Group Chennai
+Hong Kong,China,,Asia,Hong Kong R User Group (HKRUG)
+Kaohsiung,Taiwan,,Asia,Kaohsiung R Users
+Macao,China,,Asia,R-Research
+Manila,Philippines,,Asia,R User Group - Philippines
+Mumbai,India,,Asia,mumbai-r-user-group
+Nagoya,Japan,,Asia,Nagoya R
+New Delhi,India,,Asia,New Delhi UseR Group
+Osaka,Japan,,Asia,Osaka R
+Pune,India,,Asia,Pune R User Group
+Seoul,South Korea,,Asia,Korea R User's Group
+Shanghai,China,,Asia,Shanghai-R
+Singapore,Singapore,,Asia,R User Group Singapore (RUGS)
+Taipei,Taiwan,,Asia,Chinese Academy of R Software
+Taipei,Taiwan,,Asia,Taiwan UseR Group
+Tokyo,Japan,,Asia,Tokyo R
+Tsukuba,Japan,,Asia,Tsukuba R
+Amsterdam,Netherlands,,Europe,amst-R-dam
+Ankara,Turkey,,Europe,Turkish Community of R
+Barcelona,Spain,,Europe,RUGBCN
+Basel,Switzerland,,Europe,BaselR
+Belfast,Ireland,,Europe,Belfast R users group
+Belgrade,Serbia,,Europe,Sav taj R
+Birmingham,United Kingdom,,Europe,Birmingham R Users Meeting (BRUM)
+Brussels,Belgium,,Europe,RBelgium
+Bucharest,Romania,,Europe,R-omania Team
+Budapwst,Hungary,,Europe,Budapest Users of R Network (BURN)
+Cambridge,United Kingdom,,Europe,CambR
+Copenhagen,Denmark,,Europe,CopenhagenR - useR Group
+Dresden,Germany,,Europe,R User Group Dresden
+Dublin,Ireland,,Europe,Diblin-R
+Edinburgh,United Kingdom,,Europe,R Users Group and Modelling Systems Community
+Enschede,Netherlands,,Europe,Twente R User Group (TRUG)
+Exeter,United Kingdom,,Europe,Exeter R Users Group
+Geneva,Switzerland,,Europe,GenevaR
+Glasgow,United Kingdom,,Europe,GlasgowR
+Helsinki,Finland,,Europe,Finnish Society for Bioinformatics
+Kassel,Germany,,Europe,Kasseler useR Group
+Koeln,Germany,,Europe,Koeln R User Group
+Leipzig,Germany,,Europe,Leipzig R Statistical Computing
+Ljubljana,Slovenia,,Europe,Annonymous Rcoholics
+London,United Kingdom,,Europe,LondonR
+Luxembourg,Luxembourg,,Europe,LuxR
+Lyon,France,,Europe,RLyon
+Madrid,Spain,,Europe,Comunidad R Hispano
+Madrid,Spain,,Europe,Grupo de Interés Local de Madrid
+Manchester,United Kingdom,,Europe,ManchesterR
+Mannheim,Germany,,Europe,R User Group Rhein-Neckar
+Marburg,Germany,,Europe,Marbug R Local User Group
+Milan,Italy,,Europe,MilanoR
+Montpellier,France,,Europe,Groupe des utilisateurs du logiciel R
+Munich,Germany,,Europe,Munich useR Group
+Nuernberg,Germany,,Europe,NuernbergR
+Padua,Italy,,Europe,Italy-RUG Rante
+Paris,France,,Europe,R Addicts Paris
+Paris,France,,Europe,Semin-R
+Perm,Russia,,Europe,PeRm R Group
+Poznan,Poland,,Europe,Poznan R Users
+Sheffield,United Kingdom,,Europe,Sheffield R Users Group
+Stockholm,Sweden,,Europe,Stockholm R useR Group (StockholmR)
+Zurich,Switzerland,,Europe,GenevaR
+Torino,Italy,,Europe,Torino R net
+Vienna,Austria,,Europe,Vienna<-R
+Vilnius,Lithuania,,Europe,VilniusR
+Warsaw,Poland,,Europe,Annual Polish R User Group Meeting
+Wiesbaden,Germany,,Europe,Wiesbaden R Users Group
+Cairo,Egypt,,Middle East / Africa,Cairo Bioinformatics Group
+Dakar,Senegal,,Middle East / Africa,DakaR R User Group (DRUG)
+Durban,South Africa,,Middle East / Africa,Durban R User Group
+Tel Aviv,Isreal,,Middle East / Africa,Israel R user Group
+Atlanta,United States,GA,North America,Atlanta R User's Group
+Austin,United States,TX,North America,Austin R User Group
+Berkeley,United States,CA,North America,The Berkeley R Language Beginner Study Group
+Boston,United States,MA,North America,Greater Boston useR Group
+Burlington,United States,VT,North America,Burlington R Users
+Chicago,United States,IL,North America,Chicago R User's Group
+Cleveland,United States,OH,North America,Cleveland UseR Group
+Dallas,United States,TX,North America,Dallas R Users Group
+Davis,United States,CA,North America,Davis R users' Group
+Dayton,United States,OH,North America,CinDay RUG
+Denver,United States,Co,North America,Denver R User Group
+Edmonton,Canada,,North America,Edmonton R User Group
+Gainesville,United States,FL,North America,R Users Group Gainesville
+Houston,United States,TX,North America,Houston R Users Group
+Indianapolis,United States,IN,North America,Indy useR Group
+Kansas CIty,United States,KS,North America,Kansas City R Users Group
+Kansas CIty,United States,MO,North America,Kansas City R Users Group
+Knoxville,United States,TN,North America,Knoxville R Users Group (KRUG)
+Los Angeles,United States,CA,North America,Los Angeles Area R Users Group
+Madison,United States,WI,North America,Madison Area R Users Group
+Milwaukee,United States,WI,North America,The Milwaukee Chapter of the ASA
+Minneapolis,United States,MN,North America,Twin Cities R User Group
+Montreal,Canada,,North America,Montreal R User Group
+Nashville,United States,TN,North America,Nashville R user Group
+New York,United States,NY,North America,Columbia R Statistical Programming Group
+New York,United States,NY,North America,New York R Statistical Programming Meetup
+Newark,United States,NJ,North America,NewJerseyR
+Northampton,United States,MA,North America,"Western Mass Data Science, Stats, and R"
+Orange County,United States,CA,North America,Orange County R User Group
+Ottawa,Canada,,North America,Ottawa Gatineau R Users Group
+Pasadena,United States,CA,North America,Research Methods and Analytics
+Philadelphia,United States,PA,North America,Philadelphia UseR Group
+Pittsburgh,United States,PA,North America,Pittsburgh useR Group
+Portland,United States,OR,North America,Portland R User Group
+Princeton,United States,NJ,North America,Central New Jersey R User Group
+Quebec,Canada,,North America,Plein-R
+Raleigh-Durham,United States,NC,North America,Raleigh-Durham-Chapel Hill R Users Group
+Saint Louis,United States,MO,North America,Saint Louis R User Group
+Salt Lake City,United States,UT,North America,University of Utah R Users Group
+San Antonio,United States,TX,North America,Alamo City R Users Group
+San Diego,United States,CA,North America,San Dego Data Science
+San Diego,United States,CA,North America,San Diego R Users Group
+San Francisco,United States,CA,North America,Bay Area useR Group (BARUG)
+San Francisco,United States,CA,North America,R-Ladies SF
+Santa Barbara,United States,CA,North America,Santa Barbara R Users
+Seattle,United States,WA,North America,Seattle UseR Group
+Stamford,United States,CT,North America,Connecticut R Users Group
+Toronto,Canada,,North America,GTA R User's Group
+Toronto,Canada,,North America,R Matlab Users
+Vancouver,Canada,,North America,Vancouver R User's Group
+Washington DC,United States,DC,North America,Statistical Programming DC
+Adelaide,Australia,SA,Oceania,Adelaide R-users Group
+Auckland,New Zealand,,Oceania,Auckland-R-Users-Group (AKLRUG)
+Canberra,Australia,ACT,Oceania,Canberra R Users Group (CANRUG)
+Hobart,Australia,TAS,Oceania,Hobart R Users Group (HRUG)
+Melbourne,Australia,VIC,Oceania,Melbourne Users of R Network (MelbURN)
+Sydney,Australia,NSW,Oceania,Sydney Users of R Forum (SURF)
+Wellington,New Zealand,,Oceania,Wellington R Users Group (WRUG)
+Buenos Ares,Argentia,,South / Central America,AR
+Managua,Nicaragua,,South / Central America,Usuarios R Nicaragua
+Santiago,Chile,,South / Central America,Grupo de Usuarios de R en Chile
+Sao Paulo,Brazil,,South / Central America,R-br: the Brazilian R-community
+Miami,United States,FL,North America,South Florida User Group
+Hilo,United States,HI,North America,East Hawaii R Users Group
+Durham,United States,NH,North America,Hew Hampshire R Users Group (NH UseRs)
+Albany,United states,NY,North America,Albany R Users Group
+"Charlotte, United States",,NC,North America,Charlotte R Users Group
+Cincinnati,United States,OH,North America,CinDay RUG

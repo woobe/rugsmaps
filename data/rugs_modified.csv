@@ -1,0 +1,141 @@
+"City","Country","State","Region","Name","lat","lon"
+"Taipei","Taiwan","","Asia","Chinese Academy of R Software",25.09108,121.60983
+"Taipei","Taiwan","","Asia","Taiwan UseR Group",25.09108,121.50983
+"Madrid","Spain","","Europe","Comunidad R Hispano",40.41678,-3.65379
+"Madrid","Spain","","Europe","Grupo de Interés Local de Madrid",40.41678,-3.75379
+"Paris","France","","Europe","R Addicts Paris",48.85661,2.40222
+"Paris","France","","Europe","Semin-R",48.85661,2.30222
+"New York","United States","NY","North America","Columbia R Statistical Programming Group",40.71278,-73.95594
+"New York","United States","NY","North America","New York R Statistical Programming Meetup",40.71278,-74.05594
+"San Diego","United States","CA","North America","San Dego Data Science",32.71574,-117.11108
+"San Diego","United States","CA","North America","San Diego R Users Group",32.71574,-117.21108
+"San Francisco","United States","CA","North America","Bay Area useR Group (BARUG)",37.77493,-122.36942
+"San Francisco","United States","CA","North America","R-Ladies SF",37.77493,-122.46942
+"Toronto","Canada","","North America","GTA R User's Group",43.65,-79.33
+"Toronto","Canada","","North America","R Matlab Users",43.65,-79.43
+"Bangalore","India","","Asia","Bangalore R Users",12.97,77.56
+"Chiang Mai","Thailand","","Asia","Chiang Mai R User Group",18.78775,98.99313
+"Chiba","Japan","","Asia","Kashiwa R",35.61,140.11
+"Chennai","India","","Asia","R Users Group Chennai",13.05241,80.25082
+"Hong Kong","China","","Asia","Hong Kong R User Group (HKRUG)",22.39643,114.1095
+"Kaohsiung","Taiwan","","Asia","Kaohsiung R Users",23.01087,120.666
+"Macao","China","","Asia","R-Research",22.19874,113.54387
+"Manila","Philippines","","Asia","R User Group - Philippines",14.62,120.97
+"Mumbai","India","","Asia","mumbai-r-user-group",19.07598,72.87766
+"Nagoya","Japan","","Asia","Nagoya R",35.15,136.91
+"New Delhi","India","","Asia","New Delhi UseR Group",28.63531,77.22496
+"Osaka","Japan","","Asia","Osaka R",34.68,135.5
+"Pune","India","","Asia","Pune R User Group",18.53,73.84
+"Seoul","South Korea","","Asia","Korea R User's Group",37.56654,126.97797
+"Shanghai","China","","Asia","Shanghai-R",31.23,121.47
+"Singapore","Singapore","","Asia","R User Group Singapore (RUGS)",1.3,103.85
+"Tokyo","Japan","","Asia","Tokyo R",35.68949,139.69171
+"Tsukuba","Japan","","Asia","Tsukuba R",36.08349,140.07664
+"Amsterdam","Netherlands","","Europe","amst-R-dam",52.37,4.89
+"Ankara","Turkey","","Europe","Turkish Community of R",39.93,32.85
+"Barcelona","Spain","","Europe","RUGBCN",41.4,2.17
+"Basel","Switzerland","","Europe","BaselR",47.57,7.58
+"Belfast","Ireland","","Europe","Belfast R users group",54.60249,-5.92798
+"Belgrade","Serbia","","Europe","Sav taj R",44.83,20.5
+"Birmingham","United Kingdom","","Europe","Birmingham R Users Meeting (BRUM)",52.48,-1.91
+"Brussels","Belgium","","Europe","RBelgium",50.83,4.33
+"Bucharest","Romania","","Europe","R-omania Team",44.44,26.1
+"Budapest","Hungary","","Europe","Budapest Users of R Network (BURN)",47.49791,19.04023
+"Cambridge","United Kingdom","","Europe","CambR",52.20534,0.12182
+"Copenhagen","Denmark","","Europe","CopenhagenR - useR Group",55.68,12.57
+"Dresden","Germany","","Europe","R User Group Dresden",51.05041,13.73726
+"Dublin","Ireland","","Europe","Diblin-R",53.33,-6.25
+"Edinburgh","United Kingdom","","Europe","R Users Group and Modelling Systems Community",55.95325,-3.18827
+"Enschede","Netherlands","","Europe","Twente R User Group (TRUG)",52.22,6.89
+"Exeter","United Kingdom","","Europe","Exeter R Users Group",50.71841,-3.5339
+"Geneva","Switzerland","","Europe","GenevaR",46.21,6.14
+"Glasgow","United Kingdom","","Europe","GlasgowR",55.87,-4.27
+"Helsinki","Finland","","Europe","Finnish Society for Bioinformatics",60.17,24.94
+"Kassel","Germany","","Europe","Kasseler useR Group",51.32,9.48
+"Koeln","Germany","","Europe","Koeln R User Group",50.93753,6.96028
+"Leipzig","Germany","","Europe","Leipzig R Statistical Computing",51.35,12.4
+"Ljubljana","Slovenia","","Europe","Annonymous Rcoholics",46.06,14.51
+"London","United Kingdom","","Europe","LondonR",51.50735,-0.12776
+"Luxembourg","Luxembourg","","Europe","LuxR",49.61162,6.13193
+"Lyon","France","","Europe","RLyon",45.76,4.83
+"Manchester","United Kingdom","","Europe","ManchesterR",53.48,-2.25
+"Mannheim","Germany","","Europe","R User Group Rhein-Neckar",49.5,8.47
+"Marburg","Germany","","Europe","Marbug R Local User Group",50.8,8.77
+"Milan","Italy","","Europe","MilanoR",45.46542,9.18592
+"Montpellier","France","","Europe","Groupe des utilisateurs du logiciel R",43.61,3.87
+"Munich","Germany","","Europe","Munich useR Group",48.14,11.58
+"Nuernberg","Germany","","Europe","NuernbergR",49.45203,11.07675
+"Padua","Italy","","Europe","Italy-RUG Rante",45.40643,11.87676
+"Perm","Russia","","Europe","PeRm R Group",58,56.31667
+"Poznan","Poland","","Europe","Poznan R Users",52.4,16.9
+"Sheffield","United Kingdom","","Europe","Sheffield R Users Group",53.39,-1.48
+"Stockholm","Sweden","","Europe","Stockholm R useR Group (StockholmR)",59.33,18.07
+"Zurich","Switzerland","","Europe","GenevaR",47.38,8.54
+"Torino","Italy","","Europe","Torino R net",45.07031,7.68686
+"Vienna","Austria","","Europe","Vienna<-R",48.22,16.37
+"Vilnius","Lithuania","","Europe","VilniusR",54.7,25.27
+"Warsaw","Poland","","Europe","Annual Polish R User Group Meeting",52.26,21.02
+"Wiesbaden","Germany","","Europe","Wiesbaden R Users Group",50.08,8.23
+"Cairo","Egypt","","Middle East or Africa","Cairo Bioinformatics Group",30.06,31.25
+"Dakar","Senegal","","Middle East or Africa","DakaR R User Group (DRUG)",14.7645,-17.36603
+"Durban","South Africa","","Middle East or Africa","Durban R User Group",-29.87,30.99
+"Tel Aviv","Isreal","","Middle East or Africa","Israel R user Group",32.0853,34.78177
+"Atlanta","United States","GA","North America","Atlanta R User's Group",33.76,-84.42
+"Austin","United States","TX","North America","Austin R User Group",30.31,-97.75
+"Berkeley","United States","CA","North America","The Berkeley R Language Beginner Study Group",37.87,-122.27
+"Boston","United States","MA","North America","Greater Boston useR Group",42.35843,-71.05977
+"Burlington","United States","VT","North America","Burlington R Users",44.47588,-73.21207
+"Chicago","United States","IL","North America","Chicago R User's Group",41.87811,-87.6298
+"Cleveland","United States","OH","North America","Cleveland UseR Group",41.48,-81.68
+"Dallas","United States","TX","North America","Dallas R Users Group",32.78014,-96.80045
+"Davis","United States","CA","North America","Davis R users' Group",38.55,-121.74
+"Dayton","United States","OH","North America","CinDay RUG",39.78,-84.2
+"Denver","United States","Co","North America","Denver R User Group",39.73757,-104.98472
+"Edmonton","Canada","","North America","Edmonton R User Group",53.57,-113.54
+"Gainesville","United States","FL","North America","R Users Group Gainesville",29.67,-82.34
+"Houston","United States","TX","North America","Houston R Users Group",29.76019,-95.36939
+"Indianapolis","United States","IN","North America","Indy useR Group",39.78,-86.15
+"Kansas City","United States","KS","North America","Kansas City R Users Group",39.09973,-94.57857
+"Knoxville","United States","TN","North America","Knoxville R Users Group (KRUG)",35.97,-83.95
+"Los Angeles","United States","CA","North America","Los Angeles Area R Users Group",34.05223,-118.24368
+"Madison","United States","WI","North America","Madison Area R Users Group",43.08,-89.39
+"Milwaukee","United States","WI","North America","The Milwaukee Chapter of the ASA",43.0389,-87.90647
+"Minneapolis","United States","MN","North America","Twin Cities R User Group",44.96,-93.27
+"Montreal","Canada","","North America","Montreal R User Group",45.52,-73.57
+"Nashville","United States","TN","North America","Nashville R user Group",36.17,-86.78
+"Newark","United States","NJ","North America","NewJerseyR",40.72,-74.17
+"Northampton","United States","MA","North America","Western Mass Data Science, Stats, and R",42.32509,-72.6412
+"Orange County","United States","CA","North America","Orange County R User Group",33.71747,-117.83114
+"Ottawa","Canada","","North America","Ottawa Gatineau R Users Group",45.42,-75.71
+"Pasadena","United States","CA","North America","Research Methods and Analytics",34.14778,-118.14452
+"Philadelphia","United States","PA","North America","Philadelphia UseR Group",39.95233,-75.16379
+"Pittsburgh","United States","PA","North America","Pittsburgh useR Group",40.44,-79.98
+"Portland","United States","OR","North America","Portland R User Group",45.52345,-122.67621
+"Princeton","United States","NJ","North America","Central New Jersey R User Group",40.3573,-74.66722
+"Quebec","Canada","","North America","Plein-R",52.93992,-73.54914
+"Raleigh-Durham","United States","NC","North America","Raleigh-Durham-Chapel Hill R Users Group",35.77959,-78.63818
+"Saint Louis","United States","MO","North America","Saint Louis R User Group",38.64,-90.24
+"Salt Lake City","United States","UT","North America","University of Utah R Users Group",40.78,-111.93
+"San Antonio","United States","TX","North America","Alamo City R Users Group",29.42412,-98.49363
+"Santa Barbara","United States","CA","North America","Santa Barbara R Users",34.42083,-119.69819
+"Seattle","United States","WA","North America","Seattle UseR Group",47.62,-122.35
+"Stamford","United States","CT","North America","Connecticut R Users Group",41.05343,-73.53873
+"Vancouver","Canada","","North America","Vancouver R User's Group",49.28,-123.13
+"Washington DC","United States","DC","North America","Statistical Programming DC",38.90719,-77.03687
+"Adelaide","Australia","SA","Oceania","Adelaide R-users Group",-34.93,138.6
+"Auckland","New Zealand","","Oceania","Auckland-R-Users-Group (AKLRUG)",-36.85,174.76
+"Canberra","Australia","ACT","Oceania","Canberra R Users Group (CANRUG)",-35.31,149.13
+"Hobart","Australia","TAS","Oceania","Hobart R Users Group (HRUG)",-42.85,147.29
+"Melbourne","Australia","VIC","Oceania","Melbourne Users of R Network (MelbURN)",-37.81,144.96
+"Sydney","Australia","NSW","Oceania","Sydney Users of R Forum (SURF)",-33.87,151.21
+"Wellington","New Zealand","","Oceania","Wellington R Users Group (WRUG)",-41.28646,174.77624
+"Buenos Ares","Argentia","","South or Central America","AR",-34.60372,-58.38159
+"Managua","Nicaragua","","South or Central America","Usuarios R Nicaragua",12.15,-86.27
+"Santiago","Chile","","South or Central America","Grupo de Usuarios de R en Chile",-33.46912,-70.642
+"Sao Paulo","Brazil","","South or Central America","R-br: the Brazilian R-community",-23.53,-46.63
+"Miami","United States","FL","North America","South Florida User Group",25.78,-80.21
+"Hilo","United States","HI","North America","East Hawaii R Users Group",19.7,-155.09
+"Durham","United States","NH","North America","Hew Hampshire R Users Group (NH UseRs)",35.99403,-78.89862
+"Albany","United States","NY","North America","Albany R Users Group",42.65258,-73.75623
+"Charlotte","United States","NC","North America","Charlotte R Users Group",35.22709,-80.84313
+"Cincinnati","United States","OH","North America","CinDay RUG",39.14,-84.51
